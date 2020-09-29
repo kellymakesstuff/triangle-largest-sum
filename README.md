@@ -2,6 +2,10 @@
 
 Please see the code for full commentary on solution. 
 
+To view code output:
+1. clone repo
+2. node kbergin_solution.js
+
 Thank you so much for your time and consideration! 
 
 Kelly Bergin
